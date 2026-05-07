@@ -1,0 +1,15 @@
+# --- SPHY Core Data Stack ---
+numpy
+pandas
+pyarrow
+fastparquet
+
+# --- Visualização e Auditoria (Matplotlib) ---
+matplotlib
+
+# --- Engine 3D e Interface (Ursina) ---
+ursina
+
+# --- Utilidades de Sistema ---
+# Geralmente já vêm no Python do Linux, mas garantimos aqui:
+python-dateutil
